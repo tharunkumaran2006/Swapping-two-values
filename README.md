@@ -26,7 +26,8 @@ num1,num2=num2,num1
 print('Swapped values are:',num1,num2)
 ```
 ## OUTPUT:
-![alt text](<Screenshot 2024-03-16 092927.png>)
+![Screenshot 2024-03-16 092927](https://github.com/tharunkumaran2006/Swapping-two-values/assets/151625188/81e85895-6611-4d56-a0f3-2604ae6189ee)
+
 
 ## RESULT:
 Thus the swapping of two values are successfully executed
